@@ -1,0 +1,26 @@
+
+
+.numon, .numth, .numfi {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: lightpink;
+}
+
+#numtw { 
+    color: blue;
+    font-size: 36px;
+}
+
+.numth {
+    font-size: 24px;
+}
+
+#numfo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.numfi {
+
+}
+
