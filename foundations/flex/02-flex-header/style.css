@@ -12,13 +12,13 @@
   padding: 4px 32px;
   display: flex;
   margin: auto;
-
 }
 
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
+  padding: 0%;
 }
 
 a {
