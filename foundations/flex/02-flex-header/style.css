@@ -11,8 +11,8 @@
   background: white;
   padding: 4px 32px;
   display: flex;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+
 }
 
 ul {
