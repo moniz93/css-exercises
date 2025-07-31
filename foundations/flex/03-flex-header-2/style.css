@@ -36,12 +36,14 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
-}
+  display: flex;
+  align-items: center;}
 
 a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
+  margin: 8px;
 }
 
 ul {
