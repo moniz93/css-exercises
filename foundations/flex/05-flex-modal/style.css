@@ -51,30 +51,35 @@ body {
   border: 1px solid #eee;
   padding: 0;
   margin-right: 16px;
+  margin-top: 8px;
 }
 
 button {
   cursor: pointer;
-  padding: 8px 16px;
-  border-radius: 8px;
 }
 
 button.continue {
   background: royalblue;
   border: 1px solid royalblue;
   color: white;
+  padding: 8px 16px;
+  border-radius: 8px;
+  margin: auto 0px 16px 0;
 }
 
 button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+  padding: 8px 16px;
+  border-radius: 8px;
+  margin: auto 0px 16px 0;
 }
 
 .header {
   font-weight: 700;
   font-size: 20px;
-  margin: 16px 0;
+  margin: 16px 0 8px 0;
 }
 
 .header-x {
@@ -82,3 +87,8 @@ button.cancel {
   align-items: center;
   justify-content: space-between;
 }
+
+.text {
+  margin: 0 16px 16px 0;
+}
+
