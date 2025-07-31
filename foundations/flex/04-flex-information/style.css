@@ -17,6 +17,9 @@ img {
 .fruits {
   display: flex;
   gap: 20px;
+  justify-content: center;
+  text-align: center;
+  gap: 52px;
 }
 
 /* do not edit this footer */
