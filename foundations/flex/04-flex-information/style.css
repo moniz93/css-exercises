@@ -21,6 +21,11 @@ img {
   text-align: center;
 }
 
+.item {
+  width: 200px;
+  box-sizing: border-box;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
