@@ -17,6 +17,9 @@ body {
   background: #eee;
   color: darkmagenta;
   margin-top: auto;
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
 
 .sidebar {
