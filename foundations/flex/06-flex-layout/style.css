@@ -7,7 +7,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  flex: auto;
+  
 }
 
 img {
@@ -64,7 +64,7 @@ input {
   align-items: center;
   justify-content: space-between;
   padding: 16px;
-  background-color: #eee;
+  background-color: #eeecec;
 }
 
 .right-links {
